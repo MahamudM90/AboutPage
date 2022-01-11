@@ -1,2 +1,2 @@
 # aboutpage
-This is a about page o.
+This is a about page of.
