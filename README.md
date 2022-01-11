@@ -1,2 +1,2 @@
 # aboutpage
-This is a about page of Maha.
+This is a about page of Maham.
