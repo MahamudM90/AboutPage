@@ -1,2 +1,2 @@
 # aboutpage
-This is a about page of Mahamud Ha.
+This is a about page of Mahamud Has.
