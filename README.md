@@ -1,2 +1,2 @@
 # aboutpage
-This is Th about page of Mahamud Hasan.
+This is The about page of Mahamud Hasan.
